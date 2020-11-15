@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(250, 250, 250);
+  background: linear-gradient(#ff3401af 55%, #1dfc00);
 }
 
 .container {
@@ -18,7 +18,7 @@ body {
     margin: 0 10%;
   }
 
-  .image {
+  /* .image {
     width: 100%;
-  }
+  } */
 }

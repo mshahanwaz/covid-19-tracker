@@ -5,6 +5,11 @@
   margin: 50px 0;
 }
 
+.container > h4 {
+  font-size: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .infected {
   border-bottom: 10px solid rgba(0, 0, 255, 0.5);
 }
