@@ -10,7 +10,7 @@ Simple COVID-19 Tracker, made with :heart:, can track & provide the stats like n
 
 ## ScreenShots:
 <p align="center">
-	<img src="/screenshots/1.png" height="450">
+	<img src="/screenshots/1.png">
   <hr>
-  <img src="/screenshots/2.png" height="450">
+  <img src="/screenshots/2.png">
 </p>
