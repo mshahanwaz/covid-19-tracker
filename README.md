@@ -5,8 +5,9 @@ Simple COVID-19 Tracker, made with :heart:, can track & provide the stats like n
 - React.js
 - Chart.js(for graph)
 - Material UI
+- FireBase(for deployment)
 
-## API used: [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
+### API used: [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
 
 ## ScreenShots:
 <p align="center">
