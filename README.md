@@ -6,6 +6,7 @@ Simple COVID-19 Tracker, made with :heart:, can track & provide the stats like n
 ## Library & Packages:
 - React.js
 - Chart.js(for graph)
+- CountUp.js(for animations)
 - Material UI
 - FireBase(for deployment)
 
